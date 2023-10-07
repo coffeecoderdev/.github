@@ -1,6 +1,6 @@
 # CoffeeCoder - Your Destination for Software Development and Programming Courses  { ☕ -> 💻 }
 
-![CoffeeCoder Logo](https://your-image-url.com/your-logo.png)
+![CoffeeCoder Logo](https://github.com/coffeecoderdev/.github/blob/main/profile/Logo_CoffeeCoder_banner.png)
 
 Welcome to CoffeeCoder, your go-to platform for all things related to software development and programming. We're passionate about coding, and we're here to help you on your coding journey! 🚀
 
